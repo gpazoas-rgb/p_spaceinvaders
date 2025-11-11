@@ -1,0 +1,18 @@
+# Ignorar carpetas generadas por Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Ss]napshots/
+
+# Ignorar archivos temporales de IDEs (Visual Studio/Rider)
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+.DS_Store
